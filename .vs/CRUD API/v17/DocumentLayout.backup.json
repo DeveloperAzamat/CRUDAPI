@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|c:\\users\\a.jumayev\\riderprojects\\crud api\\crud api\\logs\\log20250625.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23FEE5F4-374B-4436-87E2-9D4BA7D7C987}|CRUD API\\CRUD API.csproj|solutionrelative:crud api\\logs\\log20250625.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD API\\appsettings.json",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\appsettings.json",
+              "RelativeToolTip": "CRUD API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T08:04:28.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "CRUD API\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:52:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CRUD API\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:53:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "CRUD API\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:53:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "CRUD API\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:52:53.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "log20250625.txt",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Logs\\log20250625.txt",
+              "RelativeDocumentMoniker": "CRUD API\\Logs\\log20250625.txt",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Logs\\log20250625.txt",
+              "RelativeToolTip": "CRUD API\\Logs\\log20250625.txt",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2MAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-25T07:46:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Program.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Program.cs",
+              "RelativeToolTip": "CRUD API\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:45:53.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRUD API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:46:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CRUD API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\a.jumayev\\RiderProjects\\CRUD API\\CRUD API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CRUD API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:45:56.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
